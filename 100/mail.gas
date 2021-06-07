@@ -1,0 +1,6 @@
+function myFunction() {
+  // https://developers.google.com/apps-script/reference/mail/mail-app
+  MailApp.sendEmail(// Toのメールアドレス,
+                  "ダミーメールのタイトル",
+                  "内容はこんな感じ。\n改行される？");
+}
