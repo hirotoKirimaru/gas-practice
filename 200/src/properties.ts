@@ -1,3 +1,3 @@
 namespace Properties {
-    export const MY_MAIL = "";
+    export const MY_MAIL = "nainaistar@gmail.com";
 }
