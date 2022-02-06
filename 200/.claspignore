@@ -1,0 +1,6 @@
+*.js
+**/*.js
+!**/*.ts
+
+.git/**
+node_modules/**
