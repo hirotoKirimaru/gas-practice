@@ -16,7 +16,7 @@ clasp login --no-localhost
 # npm install
 npm install
 # KPIシート作成
-clasp create --title "KPI Sheet" --type sheets --rootDir ./src
+clasp create --title "TEST" --type sheets --rootDir ./src
 # .clasp.jsonの移動
 mv ./src/.clasp.json ./.clasp.json
 clasp pull
