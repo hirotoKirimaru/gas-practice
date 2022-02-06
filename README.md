@@ -22,3 +22,8 @@ mv ./src/.clasp.json ./.clasp.json
 clasp pull
 clasp push
 ```
+
+# デプロイ先のファイルURLを確認したい
+```bash
+clasp open
+```
